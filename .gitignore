@@ -1,0 +1,4 @@
+# External
+plugins/zsh-autosuggestions/
+gh-completion.zsh
+wttr.zsh
